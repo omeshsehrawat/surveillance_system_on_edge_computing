@@ -2,6 +2,12 @@
 
 This repository contains various Python-based implementations and GStreamer pipelines for creating surveillance systems on edge computing devices. These projects are designed to efficiently manage and process camera streams, providing features like dynamic layouts, text overlays, and RTSP re-streaming.
 
+**Note**: The code in this repository has been developed and tested on **Jetson NX** running **Ubuntu 20.04**.
+
+For installation and setup instructions for **Platform and OS Compatibility** , please refer to the [DeepStream Installation Guide](https://docs.nvidia.com/metropolis/deepstream/dev-guide/text/DS_Installation.html).
+
+---
+
 ## Folder Descriptions
 
 ### 1. **accessing_4_camera_at_a_time_from_csv_file**
@@ -20,7 +26,7 @@ This repository contains various Python-based implementations and GStreamer pipe
 ---
 
 ### 4. **re-stream_of_rtsp_camera_using_GstRtspServer**
-   - **Description**: This project re-streams RTSP camera feeds using the GstRtspServer module in GStreamer. It is useful for redistributing streams to other devices or applications.
+   - **Description**: This project re-streams RTSP camera feeds using the GstRtspServer module in GStreamer. It is useful for redistributing streams to other devices or applications using vlc player.
 
 ---
 
