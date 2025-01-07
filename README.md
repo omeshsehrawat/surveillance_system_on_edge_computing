@@ -2,6 +2,8 @@
 
 This repository contains various Python-based implementations and GStreamer pipelines for creating surveillance systems on edge computing devices. These projects are designed to efficiently manage and process camera streams, providing features like dynamic layouts, text overlays, and RTSP re-streaming.
 
+![Surveillance System Screenshot](054c00b2-45e1-40e9-afa4-b5278dc057ab.jpg)
+
 **Note**: The code in this repository has been developed and tested on **Jetson NX** running **Ubuntu 20.04**.
 
 For installation and setup instructions for **Platform and OS Compatibility** , please refer to the [DeepStream Installation Guide](https://docs.nvidia.com/metropolis/deepstream/dev-guide/text/DS_Installation.html).
