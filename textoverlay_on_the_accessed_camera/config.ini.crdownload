@@ -1,0 +1,19 @@
+[resources]
+camera1 = rtsp://admin:Robotics@192.168.2.64
+camera2 = rtsp://admin:Robotics@192.168.2.203
+camera3 = rtsp://admin:Robotics@192.168.2.64
+camera4 = rtsp://admin:Robotics@192.168.2.203
+camera5 = rtsp://admin:Robotics@192.168.2.64
+camera6 = rtsp://admin:Robotics@192.168.2.203
+camera7 = rtsp://admin:Robotics@192.168.2.64
+camera8 = rtsp://admin:Robotics@192.168.2.203
+camera9 = rtsp://admin:Robotics@192.168.2.64
+camera10 = rtsp://admin:Robotics@192.168.2.203
+camera11 = rtsp://admin:Robotics@192.168.2.64
+camera12 = rtsp://admin:Robotics@192.168.2.203
+
+
+[grid]
+rows = 2
+columns = 6
+

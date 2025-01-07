@@ -1,0 +1,27 @@
+[resources]
+camera1 = rtsp://admin:Robotics@192.168.2.203
+camera2 = rtsp://admin:Robotics@192.168.2.203
+camera3 = rtsp://admin:Robotics@192.168.2.203
+camera4 = rtsp://admin:Robotics@192.168.2.203
+camera5 = rtsp://admin:Robotics@192.168.2.203
+camera6 = rtsp://admin:Robotics@192.168.2.203
+camera7 = rtsp://admin:Robotics@192.168.2.203
+camera8 = rtsp://admin:Robotics@192.168.2.203
+camera9 = rtsp://admin:Robotics@192.168.2.203
+camera10 = rtsp://admin:Robotics@192.168.2.203
+camera11 = rtsp://admin:Robotics@192.168.2.203
+camera12 = rtsp://admin:Robotics@192.168.2.203
+
+
+[grid]
+rows = 5
+columns = 4
+
+[stream]
+rtsp_host = 192.168.2.117
+rtsp_port = 8554
+mount_point = /multicam
+udp_port = 5400
+tile_width = 640
+tile_height = 360
+encoding_bitrate = 2000000
